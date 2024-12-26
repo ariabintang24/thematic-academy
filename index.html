@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpg" sizes="32x32" href="/logoTA2.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <title>Thematic Academy</title>
+    <!-- Tambahkan script Dialogflow -->
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <style>
+      df-messenger {
+        --df-messenger-button-titlebar-font-color: #000;
+        --df-messenger-button-titlebar-color: #fff;
+        --df-messenger-font-color: #000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Tambahkan elemen df-messenger -->
+    <df-messenger
+      intent="WELCOME"
+      chat-title="Thematic Academy"
+      agent-id="f5c1efdf-9f7a-4c0e-a53f-6d5697376843"
+      language-code="id"
+      chat-icon="/logo-aTA.jpg"
+    ></df-messenger>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
