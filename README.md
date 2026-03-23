@@ -17,12 +17,6 @@ The website is enhanced with an AI-powered chatbot using Dialogflow to assist us
 
 ---
 
-## 📸 Preview
-
-<img src="./previews/home.png" width="700"/>
-
----
-
 ## 🚀 Features
 
 ### 🏢 Company Overview
