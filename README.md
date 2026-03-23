@@ -1,12 +1,67 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# 🎓 Thematic Academy
 
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+Thematic Academy website is designed to introduce digital training programs and provide users with essential information about available courses.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+The website is enhanced with an AI-powered chatbot using Dialogflow to assist users in finding information and answering common questions related to digital training.
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+---
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+## ✨ Highlights
+
+- 🏢 Company profile website for digital training services  
+- 🤖 AI chatbot integration using Dialogflow (helpdesk support)  
+- 📚 Course showcase section  
+- ❓ FAQ section for common questions  
+- 🎯 Clean and modern UI design  
+- 📱 Fully responsive layout  
+
+---
+
+## 📸 Preview
+
+<img src="./previews/home.png" width="700"/>
+
+---
+
+## 🚀 Features
+
+### 🏢 Company Overview
+Provides information about Thematic Academy, including its mission, purpose, and digital training focus.
+
+---
+
+### 📚 Course Showcase
+Displays available training programs in a structured and visually appealing layout.
+
+---
+
+### 🤖 AI Chatbot (Dialogflow)
+An integrated chatbot that helps users:
+- Ask questions about courses  
+- Get quick answers related to training programs  
+- Improve user interaction without manual support  
+
+---
+
+### ❓ FAQ Section
+Contains frequently asked questions to help users quickly understand services and offerings.
+
+---
+
+### 🎨 Clean & Responsive UI
+Built with a modern and minimal design approach to ensure readability and usability across devices.
+
+---
+
+## 🛠 Tech Stack
+
+- React.js  
+- Tailwind CSS  
+- Dialogflow (AI Chatbot)  
+- Vercel (Deployment)  
+
+---
+
+## 🔗 Live Demo
+
+👉 https://thematic-academy.vercel.app/
